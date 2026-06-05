@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-all-your-scars/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tracing All Your Scars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-all-your-scars/) |
+| **Get License** | [Get a Licensing Quote for Tracing All Your Scars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-all-your-scars/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing softly underneath the stars
+> Pulling you closer in the middle of the night
+> Baby I am tracing all your beautiful scars
+> Everything between us is feeling so right
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
