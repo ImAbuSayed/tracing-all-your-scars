@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tracing All Your Scars
+
+This log tracks the cryptographic history and versioning for the song **Tracing All Your Scars** (tracing-all-your-scars).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T20:56:44.344233 | `v1` | `7a37036c7ba4ab079f1415fea236e4c5f1af2be22c431386c3d4c94d7d5608e3` | `90488af8063c39c9b76420b1ad3308f4f7af275b08da9c0bf93742c2bce46fd9` | `2026-06-05_tracing-all-your-scars-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
